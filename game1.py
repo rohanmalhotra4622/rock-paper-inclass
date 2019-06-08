@@ -4,7 +4,7 @@ import random
 #def my_message():
 #    return "Hello"
 ### if this script is executed from the command line
-#
+
 #def determine_winner(u , c):
 #    return "rock"
 
